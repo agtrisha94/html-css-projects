@@ -1,0 +1,15 @@
+.red{
+    width: 100px;
+    background: red;
+    display: block;
+}
+.blue{
+    width: 100px;
+    background: blue;
+    display: block;
+}
+.green{
+    width: 100px;
+    background: green;
+    display: block;
+}
